@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andy H. Lam
-- 👀 I’m interested in Data Science and Analsis!
+- 👀 I’m interested in Data Science and Analysis!
 - 🌱 I’m currently learning to improve my SQL, Excel, Python, and Tableau skills.
 - 💞️ I’m looking to collaborate on many data projects.
 - 📫 How to reach me andy.h.lam1@gmail.com
